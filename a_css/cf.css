@@ -144,7 +144,7 @@ h3{
       width: 80px; height: 40px;
       display: block;
       text-indent: -9999px;
-      background: no-repeat url('/web/20110522190522/http://openweb.flossmanuals.net/index_files/assets/fm-logo.png') center center;
+      background: no-repeat url('a_images/fm-logo.png') center center;
       float: left;
       margin-right: 10px;
     }
@@ -154,11 +154,11 @@ h3{
     }
 
     #footer #credits a.tm{
-      background-image: url('/web/20110522190522/http://openweb.flossmanuals.net/index_files/assets/tm-logo.png');
+      background-image: url('a_images/tm-logo.png');
     }
 
     #footer #credits a.eyebeam{
-      background-image: url('/web/20110522190522/http://openweb.flossmanuals.net/index_files/assets/eyebeam-logo.png');
+      background-image: url('a_images/eyebeam-logo.png');
       width: 207px;
       margin-right: 0;
     }
