@@ -59,13 +59,13 @@ const gm_example = [
 ];
 
 const gm_book = [
-"https://glitch-game-club.github.io/3m/#game-mechanic-add-moving-enemies",
-"https://glitch-game-club.github.io/3m/#game-mechanic-jumping-on-enemies",
-"https://glitch-game-club.github.io/3m/#game-mechanic-add-a-countdown-timer",
-"https://glitch-game-club.github.io/3m/#game-mechanic-longer-jumps-if-holding-jump-down",
-"https://glitch-game-club.github.io/3m/#game-mechanic-smaller-sprite-collision-boxes",
-"https://glitch-game-club.github.io/3m/#game-mechanic-extra-lives",
-"https://glitch-game-club.github.io/3m/#game-mechanic-player-health",
+"https://jamm-labs.github.io/3m/#game-mechanic-add-moving-enemies",
+"https://jamm-labs.github.io/3m/#game-mechanic-jumping-on-enemies",
+"https://jamm-labs.github.io/3m/#game-mechanic-add-a-countdown-timer",
+"https://jamm-labs.github.io/3m/#game-mechanic-longer-jumps-if-holding-jump-down",
+"https://jamm-labs.github.io/3m/#game-mechanic-smaller-sprite-collision-boxes",
+"https://jamm-labs.github.io/3m/#game-mechanic-extra-lives",
+"https://jamm-labs.github.io/3m/#game-mechanic-player-health",
    ];
 
 galleryItems.forEach((item,i) => item.style.backgroundImage = `url(${src[i]})`);
@@ -111,12 +111,12 @@ const polish_example = [
    ];
 
 const polish_book = [
-"https://glitch-game-club.github.io/3m/#polish-adding-our-own-sound-effects",
-"https://glitch-game-club.github.io/3m/#polish-add-animation-to-your-character",
-"https://glitch-game-club.github.io/3m/#polish-add-soundtrack-music",
-"https://glitch-game-club.github.io/3m/#polish-animate-sprite-when-zapped",
-"https://glitch-game-club.github.io/3m/#polish-screen-shake",
-"https://glitch-game-club.github.io/3m/#polish-explosions-using-particles",
+"https://jamm-labs.github.io/3m/#polish-adding-our-own-sound-effects",
+"https://jamm-labs.github.io/3m/#polish-add-animation-to-your-character",
+"https://jamm-labs.github.io/3m/#polish-add-soundtrack-music",
+"https://jamm-labs.github.io/3m/#polish-animate-sprite-when-zapped",
+"https://jamm-labs.github.io/3m/#polish-screen-shake",
+"https://jamm-labs.github.io/3m/#polish-explosions-using-particles",
    ];
 
 
@@ -169,13 +169,13 @@ const space_example = [
 ];
 
 const space_book = [
-"https://glitch-game-club.github.io/3m/#polish-add-your-own-background",
-"https://glitch-game-club.github.io/3m/#game-mechanic-extending-the-game-size",
-"https://glitch-game-club.github.io/3m/#game-space-adding-levels",
-"https://glitch-game-club.github.io/3m/#polish-scaling-our-game-and-sprites",
-"https://glitch-game-club.github.io/3m/#game-space-add-game-over-screen",
-"https://glitch-game-club.github.io/3m/#game-mechanic-keys-and-doors",
-"https://glitch-game-club.github.io/3m/#polish-create-a-cut-opening-scene",
+"https://jamm-labs.github.io/3m/#polish-add-your-own-background",
+"https://jamm-labs.github.io/3m/#game-mechanic-extending-the-game-size",
+"https://jamm-labs.github.io/3m/#game-space-adding-levels",
+"https://jamm-labs.github.io/3m/#polish-scaling-our-game-and-sprites",
+"https://jamm-labs.github.io/3m/#game-space-add-game-over-screen",
+"https://jamm-labs.github.io/3m/#game-mechanic-keys-and-doors",
+"https://jamm-labs.github.io/3m/#polish-create-a-cut-opening-scene",
    ];
 
 
